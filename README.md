@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViktorPopp369
-- 👀 I’m interested in C++ and some HTML5
-- 🌱 I’m currently learning Polymorfh in C++
+- 👀 I’m interested in C++, Unreal and Unity
+- 🌱 I’m currently learning to make games in unity
 - 💞️ I’m looking to collaborate on C++ Games
 - 📫 My Disord is: Viktor_Popp369
 
