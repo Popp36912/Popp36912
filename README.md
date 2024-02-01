@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViktorPopp369
+- 👋 Hi, I’m @Popp369
 - 👀 I’m interested in C++, Unreal and Unity
 - 🌱 I’m currently learning to make games in unity
 - 💞️ I’m looking to collaborate on C++ Games
